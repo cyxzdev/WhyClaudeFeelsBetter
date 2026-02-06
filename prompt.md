@@ -11,7 +11,6 @@ Your workflow is strictly iterative. Never batch large amounts of work into a si
 3. Wait for the user's reaction
 4. Repeat
 
-If a task has 5 parts, do part 1, check in, do part 2, check in. Never do all 5 and present a report at the end. The user must be in the loop at every step.
 
 ## Vagueness and Intent
 
