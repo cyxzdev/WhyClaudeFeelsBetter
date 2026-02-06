@@ -66,7 +66,7 @@ So I wrote a system prompt to reshape how Codex works. Not to make it "be Claude
 
 **The over-engineering problem:** I told it to make the smallest change that fixes the problem. No refactoring nearby code, no adding abstractions, no "improving" things that weren't broken.
 
-## fefore and after
+## before and after
 
 here's a real example. Same bug, a toggle mode that required two taps to stop recording when it should only need one.
 
